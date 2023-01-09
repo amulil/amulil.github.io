@@ -1,0 +1,2 @@
+# amulil.github.io
+blog
