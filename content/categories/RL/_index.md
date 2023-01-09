@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 强化学习
+description: 用来记录强化学习算法和技术
 image:
 
 # Badge style
